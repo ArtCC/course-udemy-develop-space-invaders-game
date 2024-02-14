@@ -20,4 +20,6 @@ El código está basado en parte en un tutorial publicado por Ryan Ackermann en 
 
 Si estás listo para comenzar tu viaje en el emocionante mundo del desarrollo de juegos para iOS, este curso es el punto de partida perfecto. ¡Inscríbete hoy y empieza a crear tu juego 2D para iOS!
 
+<p><img src="https://github.com/ArtCC/course-udemy-develop-space-invaders-game/blob/main/screenshots/SpaceInvaders.gif" height="750"></p>
+
 ##### ArtCC 2024++
