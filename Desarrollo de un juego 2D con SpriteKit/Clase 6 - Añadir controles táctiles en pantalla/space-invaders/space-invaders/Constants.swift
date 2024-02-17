@@ -13,6 +13,9 @@ enum Constants {
     }
 
     enum Images {
+        static let joystickBase = "img_base_joystick"
+        static let joystick = "img_joystick"
+        static let firePad = "img_joystick"
         static let logo = "logo"
     }
 }
