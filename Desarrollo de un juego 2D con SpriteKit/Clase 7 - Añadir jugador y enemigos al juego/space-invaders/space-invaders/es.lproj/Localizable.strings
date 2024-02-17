@@ -1,0 +1,10 @@
+/*
+ Localizable.strings
+ space-invaders
+
+ Created by Arturo Carretero Calvo on 16/2/24.
+ */
+
+"start.scene.play.text" = "Jugar";
+"game.over.scene.win.text" = "¡Has ganado!";
+"game.over.scene.lose.text" = "¡Has perdido!";
